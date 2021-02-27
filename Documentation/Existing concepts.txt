@@ -1,0 +1,44 @@
+Full Size Mosquito Electric Conversion
+--------------------------------------
+
+https://www.youtube.com/user/OskarRDA/videos
+
+Motor: EMRAX 228, 2500rpm, 62kW, 10 kW/kg
+ESC: PM100
+Battery: LiPo, 22Ah, 16x6S cells
+Battery weight: 40kg
+
+Rotor RPM: 550rpm
+Power requirements: 21kW hover, 17kW forward
+Theoretical max flight time: 27 mins
+
+
+Coaxial Dualcopter (MClay)
+--------------------------
+
+https://www.youtube.com/channel/UCpZGzYVc4RBrjzE5FCNqAMQ
+
+Motor: Hextronic DT750 (rewound and converted to coaxial)
+ESC: 30A
+Servos: Corona DS 339 MG (digital, 32g each)
+Flight Controller: MultiWii Pro Mega (dualcopter)
+GPS: Ublox
+Battery: LiPo 2200mAh 3S
+Flight Time: 10-12 min
+Gimbal Tilt: 25? degrees
+
+
+Coaxial Drone (VGR Systems)
+---------------------------
+
+https://www.youtube.com/watch?v=6FU_HeXyI-Y
+
+Prop: antigravity carbon 9" - ideally lower prop should be smaller and higher pitch
+Motor: Himax (looks like CR2805? - max weight 567g)
+Servos: Micro digital e.g. DS385
+Flight Controller: CC3D Revo / Librepilot (https://librepilot.atlassian.net/wiki/display/LPDOC/Welcome)
+Battery: LiPo 2200mAh 3S
+Flight Time: 15+ min
+Gimbal Tilt: 15 degrees
+
+
